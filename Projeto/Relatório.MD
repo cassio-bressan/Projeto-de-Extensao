@@ -1,6 +1,6 @@
 # 🎥 **Análise da Representatividade Feminina no Cinema**
 
-## **1. 🧠 Interpretação e Reflexões**
+## **1. 💭 Interpretação e Reflexões**
 
 ### 1.1 📈 Evolução da visibilidade feminina nas últimas décadas
 Os dados indicam uma evolução constante na visibilidade feminina ao longo das décadas. Até 1999, apenas 51,4% dos filmes passavam no Bechdel Test, revelando uma representatividade ainda limitada. Nos anos 2000, esse índice subiu para 59,3%, e entre 2010 e 2019 alcançou 62,9%, refletindo um avanço gradual na presença e relevância de personagens femininas. O período mais recente (2020+) apresenta o melhor resultado, com 70,8% das produções sendo aprovadas. Essa tendência sugere um progresso significativo na forma como as mulheres são retratadas na mídia, possivelmente impulsionado por movimentos sociais e pela crescente demanda por diversidade e igualdade de gênero no cinema.
@@ -35,7 +35,7 @@ Apesar disso, os resultados revelam que ainda há desigualdades expressivas entr
 
 ------------------------------------------------------------------------------------------------------------
 
-## **2. 📢 Conclusão e Reflexão**
+## **2. 📢 Conclusão e Reflexão final**
 
 ### 2.1 🧩 Principais descobertas
 A análise evidenciou uma clara evolução na representatividade feminina ao longo das décadas. Enquanto até 1999 pouco mais da metade dos filmes (51,4%) passavam no Teste de Bechdel, nas décadas seguintes esse número cresceu de forma constante, alcançando 59,3% nos anos 2000, 62,9% nos anos 2010 e chegando a 70,7% nos anos 2020. Esse avanço reflete mudanças culturais e sociais mais amplas, especialmente no contexto recente de debates sobre igualdade e diversidade na indústria cinematográfica.
@@ -46,7 +46,7 @@ Entre as curiosidades mais marcantes, destaca-se o fato de que o gênero adulto 
 
 ------------------------------------------------------------------------------------------------------------
 
-### 2.2 Reflexão sobre como os dados podem estimular debates sobre igualdade de gênero na mídia.
+### 2.2 🧠 Reflexão sobre como os dados podem estimular debates sobre igualdade de gênero na mídia.
 Os dados deste estudo oferecem um ponto de partida poderoso para discutir como o cinema reflete — e, muitas vezes, reforça — desigualdades de gênero presentes na sociedade. Ao evidenciar que gêneros mais associados à ação, aventura e ficção científica ainda apresentam baixos índices de representatividade feminina, os resultados levantam questionamentos sobre quem tem espaço para protagonizar histórias e quais narrativas ainda são contadas majoritariamente por e sobre homens.
 
 Por outro lado, o crescimento constante do número de filmes que passam no Teste de Bechdel ao longo das décadas mostra que há avanços reais, impulsionados por movimentos sociais e pela maior conscientização do público sobre diversidade. Esse progresso, porém, não é apenas uma conquista estatística — ele reflete o impacto de debates contemporâneos como o #MeToo, a cobrança por igualdade de oportunidades e a busca por representações mais autênticas e plurais nas telas.
