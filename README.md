@@ -30,7 +30,7 @@ Mesmo assim, sua simplicidade o tornou uma ferramenta poderosa para estudos de m
 
 ## 💻 Tecnologias utilizadas
 
-- Python
+- Python versão 3.11.7
 - Jupyter Notebook 
 
 ## 📡 Fonte dos Dados
