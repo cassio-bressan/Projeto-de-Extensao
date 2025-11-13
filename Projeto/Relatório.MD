@@ -35,7 +35,7 @@ Apesar disso, os resultados revelam que ainda há desigualdades expressivas entr
 
 ------------------------------------------------------------------------------------------------------------
 
-## **2. 📢 Conclusão e Compartilhamento**
+## **2. 📢 Conclusão e Reflexão**
 
 ### 2.1 🧩 Principais descobertas
 A análise evidenciou uma clara evolução na representatividade feminina ao longo das décadas. Enquanto até 1999 pouco mais da metade dos filmes (51,4%) passavam no Teste de Bechdel, nas décadas seguintes esse número cresceu de forma constante, alcançando 59,3% nos anos 2000, 62,9% nos anos 2010 e chegando a 70,7% nos anos 2020. Esse avanço reflete mudanças culturais e sociais mais amplas, especialmente no contexto recente de debates sobre igualdade e diversidade na indústria cinematográfica.
@@ -45,3 +45,10 @@ Apesar disso, persistem desigualdades entre os gêneros de filmes. Obras de aç�
 Entre as curiosidades mais marcantes, destaca-se o fato de que o gênero adulto — ainda que representado por apenas dois filmes no dataset — aparece com 100% de aprovação no Teste de Bechdel, o que contrasta fortemente com a expectativa comum sobre esse tipo de produção. Esse dado ilustra como nem sempre a representatividade segue padrões previsíveis, e reforça a importância de análises quantitativas para revelar nuances e exceções dentro do panorama geral.
 
 ------------------------------------------------------------------------------------------------------------
+
+### 2.2 Reflexão sobre como os dados podem estimular debates sobre igualdade de gênero na mídia.
+Os dados deste estudo oferecem um ponto de partida poderoso para discutir como o cinema reflete — e, muitas vezes, reforça — desigualdades de gênero presentes na sociedade. Ao evidenciar que gêneros mais associados à ação, aventura e ficção científica ainda apresentam baixos índices de representatividade feminina, os resultados levantam questionamentos sobre quem tem espaço para protagonizar histórias e quais narrativas ainda são contadas majoritariamente por e sobre homens.
+
+Por outro lado, o crescimento constante do número de filmes que passam no Teste de Bechdel ao longo das décadas mostra que há avanços reais, impulsionados por movimentos sociais e pela maior conscientização do público sobre diversidade. Esse progresso, porém, não é apenas uma conquista estatística — ele reflete o impacto de debates contemporâneos como o #MeToo, a cobrança por igualdade de oportunidades e a busca por representações mais autênticas e plurais nas telas.
+
+Assim, os dados não apenas revelam padrões, mas também provocam reflexão: que tipo de histórias queremos consumir e produzir daqui para frente? O Teste de Bechdel, embora simples, demonstra que medir a presença feminina no cinema vai além de contar personagens — trata-se de questionar como e por que certas vozes ainda são silenciadas.
